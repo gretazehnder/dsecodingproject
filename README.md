@@ -15,5 +15,5 @@ Additionally, the app offers an optimal travel route from Beijing to Los Angeles
 2. Run the app
 
    ```
-   $ streamlit run streamlit_app.py
+   $ streamlit run app_codingproject.py
    ```
